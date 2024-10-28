@@ -24,3 +24,13 @@
 - :cat2: Факт обо мне
 
 - :kiss: Факт обо мне
+
+### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/docs/logos/android-chrome-144x144.png" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" width="40" height="40" />
+</div>
