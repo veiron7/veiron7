@@ -46,3 +46,9 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veiron7" alt=""/>
 </div>
+
+### :bar_chart: СТатистика активности :
+
+<div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veiron7&theme=react-dark" alt=""/>
+</div>
