@@ -15,3 +15,6 @@
 <div id="heythere" align="center">
 <h1> Профиль на GITHUB </h1>
 </ div>
+
+<div align="left">
+:computer: Обо мне:
